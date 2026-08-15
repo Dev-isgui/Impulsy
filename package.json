@@ -1,0 +1,23 @@
+{
+  "name": "impulsy",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "homepage": "https://github.com/Dev-isgui/Impulsy#readme",
+  "bugs": {
+    "url": "https://github.com/Dev-isgui/Impulsy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-isgui/Impulsy.git"
+  },
+  "license": "ISC",
+  "author": "Guilherme S. Silva",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
